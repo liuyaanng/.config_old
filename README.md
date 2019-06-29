@@ -4,3 +4,5 @@
 ### - This is the workspace
 ![neofetch](./config.png)
 ### - i3wm + oh-my-zsh + alacritty
+![bbackground](./bg.png)
+### - ieaseMusic
